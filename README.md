@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**pavasmaurya/pavasmaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Pavas Maurya
 
-Here are some ideas to get you started:
+Undergraduate Student at Indian Institute of Technology Delhi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- Computer Vision
+- Face Recognition
+- Deep Learning
+- Visual Representation Learning
+- Visual Grounding
+
+## Contact
+- Email: ee1230973@iitd.ac.in
+- GitHub: https://github.com/pavasmaurya
